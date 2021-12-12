@@ -1,7 +1,8 @@
 # xmastreer
-Famous animated t sin(t) Xmas tree with ten lines of R code, inspired by [Wolfram](https://community.wolfram.com/groups/-/m/t/175891).
+Animated t sin(t) Xmas tree with ten lines of R code, heavily inspired by [Wolfram](https://community.wolfram.com/groups/-/m/t/175891).
 
 ![movie](https://github.com/mayer79/xmastreer/blob/master/xmas_movie.gif)
 
-Animation is done with `rgl`. Conversion to animated gif by magick.
+- Animation is done with `rgl`. 
+- Conversion to animated gif by magick.
 
